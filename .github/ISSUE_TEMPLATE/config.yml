@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Support
+    url: https://github.com/yourusername/oteltui/discussions
+    about: Ask questions and get help from the community
+  - name: OpenTelemetry Documentation
+    url: https://opentelemetry.io/docs/
+    about: Official OpenTelemetry documentation

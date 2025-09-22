@@ -1,0 +1,91 @@
+#title {
+    text-align: center;
+    padding: 1;
+    color: $accent;
+    text-style: bold;
+}
+
+#stats {
+    text-align: center;
+    padding: 1;
+    color: $secondary;
+}
+
+#control-panel {
+    height: auto;
+    padding: 2;
+    border: solid $primary;
+}
+
+#traces-container {
+    height: 3fr;
+    padding: 1;
+    margin-top: 1;
+    border: solid $secondary;
+}
+
+#traces-title {
+    text-style: bold;
+    color: $accent;
+    padding-bottom: 1;
+}
+
+#traces-list {
+    height: 3fr;
+}
+
+.button-row {
+    height: auto;
+    padding: 1;
+    align: center middle;
+}
+
+.button-row Button {
+    margin: 0 1;
+}
+
+#status {
+    padding: 1;
+    margin-top: 2;
+    text-align: center;
+    border: solid $secondary;
+}
+
+#modal-container {
+    width: 80%;
+    height: 80%;
+    border: thick $primary;
+    background: $surface;
+}
+
+.modal-header {
+    height: auto;
+    border: solid $secondary;
+    padding: 1;
+}
+
+.modal-buttons {
+    height: auto;
+    content-align: right middle;
+}
+
+.modal-buttons Button {
+    margin-left: 1;
+}
+
+#modal-title {
+    text-style: bold;
+    color: $accent;
+}
+
+.modal-body {
+    height: 1fr;
+    border: solid $secondary;
+    margin-top: 1;
+    padding: 1;
+}
+
+#trace-content {
+    color: $text;
+    background: $surface-darken-1;
+}
